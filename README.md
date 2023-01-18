@@ -1,7 +1,7 @@
 # Using Javascript for Belly Button Bacteria Study
 
 ## Overview
-The task at hand was to create an interavtive web dashboard by using Javascript and HTML. The JSON file provided information that 
+Created an interactive web dashboard by using Javascript and HTML. The JSON file provided information that 
 included:
 * ID number associated with the subject 
 * The subjects ethnicity 
